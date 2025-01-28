@@ -1,4 +1,4 @@
- ![logo](https://github.com/Leela-git/Leela-git/blob/main/Banner.png)
+
 <h1 align="center">Hi 👋, I'm soniya paneru</h1>
 <h3 align="center">Tribhuvan university (BCA)</h3>
 <img align="right"alt="coding"width="400px"src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/lottie-000_1_1.gif">
